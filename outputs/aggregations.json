@@ -1,0 +1,156 @@
+{
+  "fraud_rate_per_merchant_category": [
+    {
+      "transactions": 506,
+      "labeled": 506,
+      "fraudulent": 10,
+      "merchant_category": "gaming",
+      "fraud_rate": 0.019762845849802372
+    },
+    {
+      "transactions": 352,
+      "labeled": 352,
+      "fraudulent": 6,
+      "merchant_category": "gift_cards",
+      "fraud_rate": 0.017045454545454544
+    },
+    {
+      "transactions": 739,
+      "labeled": 739,
+      "fraudulent": 9,
+      "merchant_category": "electronics",
+      "fraud_rate": 0.012178619756427604
+    },
+    {
+      "transactions": 208,
+      "labeled": 208,
+      "fraudulent": 0,
+      "merchant_category": "education",
+      "fraud_rate": 0.0
+    },
+    {
+      "transactions": 615,
+      "labeled": 615,
+      "fraudulent": 0,
+      "merchant_category": "food",
+      "fraud_rate": 0.0
+    },
+    {
+      "transactions": 966,
+      "labeled": 966,
+      "fraudulent": 0,
+      "merchant_category": "grocery",
+      "fraud_rate": 0.0
+    },
+    {
+      "transactions": 352,
+      "labeled": 352,
+      "fraudulent": 0,
+      "merchant_category": "healthcare",
+      "fraud_rate": 0.0
+    },
+    {
+      "transactions": 274,
+      "labeled": 274,
+      "fraudulent": 0,
+      "merchant_category": "other",
+      "fraud_rate": 0.0
+    },
+    {
+      "transactions": 737,
+      "labeled": 737,
+      "fraudulent": 0,
+      "merchant_category": "quick_commerce",
+      "fraud_rate": 0.0
+    },
+    {
+      "transactions": 251,
+      "labeled": 251,
+      "fraudulent": 0,
+      "merchant_category": "travel",
+      "fraud_rate": 0.0
+    }
+  ],
+  "top_10_customers_last_24h": [
+    {
+      "amount_paise": 578271761,
+      "transactions": 2,
+      "last_activity": {
+        "$date": "2024-11-05T17:33:54.900Z"
+      },
+      "customer_id": "C_ec0917ec69fef0e2"
+    },
+    {
+      "amount_paise": 31380274,
+      "transactions": 8,
+      "last_activity": {
+        "$date": "2024-10-17T00:40:04.376Z"
+      },
+      "customer_id": "C_1f99ce6bdd6ab058"
+    },
+    {
+      "amount_paise": 24190080,
+      "transactions": 9,
+      "last_activity": {
+        "$date": "2024-10-22T12:56:38.370Z"
+      },
+      "customer_id": "C_4c80552c1bd9fbca"
+    },
+    {
+      "amount_paise": 15257471,
+      "transactions": 7,
+      "last_activity": {
+        "$date": "2024-10-28T21:57:24.234Z"
+      },
+      "customer_id": "C_4107507e8652aca9"
+    },
+    {
+      "amount_paise": 13331042,
+      "transactions": 5,
+      "last_activity": {
+        "$date": "2024-11-14T19:57:31.384Z"
+      },
+      "customer_id": "C_b8ce246618bee561"
+    },
+    {
+      "amount_paise": 13049696,
+      "transactions": 6,
+      "last_activity": {
+        "$date": "2024-10-03T21:53:14.399Z"
+      },
+      "customer_id": "C_2c52fb07a5119d54"
+    },
+    {
+      "amount_paise": 12374755,
+      "transactions": 6,
+      "last_activity": {
+        "$date": "2024-10-25T23:10:28.568Z"
+      },
+      "customer_id": "C_b979b6576dd3d420"
+    },
+    {
+      "amount_paise": 10742703,
+      "transactions": 9,
+      "last_activity": {
+        "$date": "2024-11-12T21:05:33.667Z"
+      },
+      "customer_id": "C_9cf92acb3f3bb034"
+    },
+    {
+      "amount_paise": 9336197,
+      "transactions": 9,
+      "last_activity": {
+        "$date": "2024-10-12T17:03:32.018Z"
+      },
+      "customer_id": "C_593b6c7681db0ddc"
+    },
+    {
+      "amount_paise": 8911953,
+      "transactions": 7,
+      "last_activity": {
+        "$date": "2024-10-12T20:05:16.883Z"
+      },
+      "customer_id": "C_e173d0874fd69bf1"
+    }
+  ]
+}

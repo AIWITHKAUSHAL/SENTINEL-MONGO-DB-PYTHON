@@ -1,0 +1,14 @@
+{
+  "before": {
+    "nReturned": 15,
+    "totalDocsExamined": 5000,
+    "totalKeysExamined": 0,
+    "executionTimeMillis": 3
+  },
+  "after": {
+    "nReturned": 15,
+    "totalDocsExamined": 15,
+    "totalKeysExamined": 15,
+    "executionTimeMillis": 1
+  }
+}
