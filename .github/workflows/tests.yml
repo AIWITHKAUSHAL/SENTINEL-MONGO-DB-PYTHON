@@ -17,6 +17,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements-dev.txt
+      - run: python -m ruff check .
+      - run: python -m ruff format --check .
       - run: python -m pytest -q
         env:
           TEST_MONGODB_URI: mongodb://localhost:27017

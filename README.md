@@ -133,6 +133,8 @@ See [`docs/RESULTS.md`](docs/RESULTS.md) for the verified run. Screenshots are o
 
 ```bash
 pip install -r requirements-dev.txt
+python -m ruff check .
+python -m ruff format --check .
 python -m pytest -q
 # To run database integration tests as well:
 TEST_MONGODB_URI=mongodb://127.0.0.1:27017 python -m pytest -q
