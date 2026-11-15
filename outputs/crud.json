@@ -1,0 +1,43 @@
+{
+  "insert_one": 1,
+  "insert_many": 2,
+  "find_with_projection": [
+    {
+      "customer_id": "C_b90ff711ce3e3dba",
+      "amount_paise": 79038,
+      "time": {
+        "$date": "2024-09-30T18:35:15.602Z"
+      }
+    },
+    {
+      "customer_id": "C_b90ff711ce3e3dba",
+      "amount_paise": 231980,
+      "time": {
+        "$date": "2024-09-30T18:36:10.733Z"
+      }
+    },
+    {
+      "customer_id": "C_b90ff711ce3e3dba",
+      "amount_paise": 113282,
+      "time": {
+        "$date": "2024-09-30T18:37:47.985Z"
+      }
+    },
+    {
+      "customer_id": "C_b90ff711ce3e3dba",
+      "amount_paise": 32520,
+      "time": {
+        "$date": "2024-09-30T18:38:19.318Z"
+      }
+    },
+    {
+      "customer_id": "C_b90ff711ce3e3dba",
+      "amount_paise": 45515,
+      "time": {
+        "$date": "2024-09-30T18:39:15.746Z"
+      }
+    }
+  ],
+  "update_many": 3,
+  "delete_one": 1
+}

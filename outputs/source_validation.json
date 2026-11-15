@@ -1,0 +1,13 @@
+{
+  "source": "supabase",
+  "transactions": 5000,
+  "customers": 1577,
+  "labeled": 5000,
+  "fraudulent": 25,
+  "first_time": {
+    "$date": "2024-09-30T18:35:15.602Z"
+  },
+  "last_time": {
+    "$date": "2024-11-15T13:46:28.423Z"
+  }
+}
